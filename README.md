@@ -1,1 +1,1 @@
-# easyVote
+# easyIslandMiner
